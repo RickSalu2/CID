@@ -4,8 +4,8 @@ Este proyecto implementa un modelo de **Regresión Lineal Simple (SLR)** desde c
 
 ## 🌟 Características del Proyecto
 
-- ✅ **Implementación manual** (sin librerías externas)
-- ✅ **Orientado a objetos** (clase `SimpleLinearRegression`)
-- ✅ **Dataset hardcodeado** (valores directos en el código)
+- ✅ **Implementación manual**
+- ✅ **Orientado a objetos** 
+- ✅ **Dataset hardcodeado** 
 - ✅ **Cálculo de parámetros óptimos** (B₀ y B₁)
 - ✅ **Predicciones para nuevos valores** de Advertising
